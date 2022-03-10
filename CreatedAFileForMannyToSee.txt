@@ -1,0 +1,5 @@
+We can delete this file later during our training
+You have to install Github for windows from a download
+Clone a repository from Github Locally
+and then work with the code locally and then commit from the windows github client
+after the commit you have to click the Push Origin button
